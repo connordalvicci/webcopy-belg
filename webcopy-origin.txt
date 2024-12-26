@@ -1,0 +1,984 @@
+Uri: https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHpv4kjgoGqM7E_Ass52Hs.woff2
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\s\barlow\v12\7cHpv4kjgoGqM7E_Ass52Hs.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHpv4kjgoGqM7E_DMs5.woff2
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\s\barlow\v12\7cHpv4kjgoGqM7E_DMs5.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3t-4s51os.woff2
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\s\barlow\v12\7cHqv4kjgoGqM7E3t-4s51os.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3t-4s6VospT4.woff2
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\s\barlow\v12\7cHqv4kjgoGqM7E3t-4s6VospT4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3_-gs51os.woff2
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\s\barlow\v12\7cHqv4kjgoGqM7E3_-gs51os.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3_-gs6VospT4.woff2
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\s\barlow\v12\7cHqv4kjgoGqM7E3_-gs6VospT4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\s\poppins\v22\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\s\poppins\v22\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\s\poppins\v22\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\s\poppins\v22\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\s\poppins\v22\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\s\poppins\v22\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\s\poppins\v22\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\s\poppins\v22\pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\s\poppins\v22\pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\s\poppins\v22\pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\s\poppins\v22\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\s\poppins\v22\pxiGyp8kv8JHgFVrJJLedw.ttf
+Content Type: font/ttf
+
+Uri: https://www.bpvimmo.be/
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\index.htm
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/blog.php
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\blog.php.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/blog/bureau-propre-apres-conges-ref12
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\blog\bureau-propre-apres-conges-ref12.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/blog/Cahier-des-charges-de-nettoyage-des-parties-communes-ref3
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\blog\Cahier-des-charges-de-nettoyage-des-parties-communes-ref3.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/blog/Comment-entretenir-les-parties-communes-de-votre-immeuble---ref15
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\blog\Comment-entretenir-les-parties-communes-de-votre-immeuble---ref15.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/blog/Conditions-generales-de-vente-et-de-prestations-de-service-ref1
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\blog\Conditions-generales-de-vente-et-de-prestations-de-service-ref1.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/blog/Contrat-de-nettoyage-des-parties-communes-ref4
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\blog\Contrat-de-nettoyage-des-parties-communes-ref4.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/blog/entreprise-specialiste-nettoyage-apres-sinistre-ref13
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\blog\entreprise-specialiste-nettoyage-apres-sinistre-ref13.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/blog/entretien-parties-communes-immeuble-ref15
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\blog\entretien-parties-communes-immeuble-ref15.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/blog/nettoyage-apres-travaux-ref6
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\blog\nettoyage-apres-travaux-ref6.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/blog/nettoyage-avant-vente-ou-location-ref9
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\blog\nettoyage-avant-vente-ou-location-ref9.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/blog/nettoyage-bureaux-par-des-professionnels--ref10
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\blog\nettoyage-bureaux-par-des-professionnels--ref10.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/blog/nettoyage-copropriete-communs-immeuble-ref7
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\blog\nettoyage-copropriete-communs-immeuble-ref7.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/blog/nettoyage-professionnel-locaux-hiver-ref5
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\blog\nettoyage-professionnel-locaux-hiver-ref5.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/blog/nettoyage-regulier-communs-immeuble-ref11
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\blog\nettoyage-regulier-communs-immeuble-ref11.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/blog/Pourquoi-faire-appel-a-une-societe-de-nettoyage-multiservices--ref14
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\blog\Pourquoi-faire-appel-a-une-societe-de-nettoyage-multiservices--ref14.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/blog/pourquoi-faire-appel-entreprise-nettoyage-multiservices-ref14
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\blog\pourquoi-faire-appel-entreprise-nettoyage-multiservices-ref14.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/blog/Reglement-general-sur-la-protection-des-donnees-ref2
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\blog\Reglement-general-sur-la-protection-des-donnees-ref2.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/blog/remplacement-concierge-immeuble-ref8
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\blog\remplacement-concierge-immeuble-ref8.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/contact.php
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\contact.php.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/css/animation.css
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\css\animation.css
+Content Type: text/css
+
+Uri: https://www.bpvimmo.be/css/blocgrid.css
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\css\blocgrid.css
+Content Type: text/css
+
+Uri: https://www.bpvimmo.be/css/fancybox.css
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\css\fancybox.css
+Content Type: text/css
+
+Uri: https://www.bpvimmo.be/css/formulaire.css
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\css\formulaire.css
+Content Type: text/css
+
+Uri: https://www.bpvimmo.be/css/galerie.css
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\css\galerie.css
+Content Type: text/css
+
+Uri: https://www.bpvimmo.be/css/global.css
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\css\global.css
+Content Type: text/css
+
+Uri: https://www.bpvimmo.be/css/home.css
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\css\home.css
+Content Type: text/css
+
+Uri: https://www.bpvimmo.be/css/page.css
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\css\page.css
+Content Type: text/css
+
+Uri: https://www.bpvimmo.be/css/slick.css
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\css\slick.css
+Content Type: text/css
+
+Uri: https://www.bpvimmo.be/favicon.ico
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.bpvimmo.be/grand-nettoyage.php
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\grand-nettoyage.php.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/images/arrow_darkblue.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\arrow_darkblue.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/arrow_lightblue.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\arrow_lightblue.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/arrow_next.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\arrow_next.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/arrow_prev.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\arrow_prev.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/arrow_sub.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\arrow_sub.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/arrow_white.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\arrow_white.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/banner-1.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\banner-1.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/banner-2bis.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\banner-2bis.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/banner-3.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\banner-3.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/banner-4.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\banner-4.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/banner-5.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\banner-5.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/bpvimmo.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\bpvimmo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/bpv_grandnettoyages_01.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\bpv_grandnettoyages_01.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/bpv_home_about_01.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\bpv_home_about_01.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/bpv_home_about_02.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\bpv_home_about_02.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/bpv_home_about_03-bisbis.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\bpv_home_about_03-bisbis.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/bpv_home_about_04.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\bpv_home_about_04.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/bpv_home_multiservices.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\bpv_home_multiservices.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/bpv_lavagevitres_01.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\bpv_lavagevitres_01.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/bpv_multiservices_01.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\bpv_multiservices_01.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/bpv_multiservices_02.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\bpv_multiservices_02.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/bpv_multiservices_03.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\bpv_multiservices_03.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/bpv_multiservices_04.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\bpv_multiservices_04.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/bpv_multiservices_05.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\bpv_multiservices_05.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/bpv_multiservices_06-bis.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\bpv_multiservices_06-bis.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/bpv_multiservices_07.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\bpv_multiservices_07.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/bpv_multiservices_08.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\bpv_multiservices_08.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/bpv_multiservices_09-bis.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\bpv_multiservices_09-bis.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/bpv_nettoyagebureaux_01.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\bpv_nettoyagebureaux_01.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/bpv_nettoyagecommuns_02.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\bpv_nettoyagecommuns_02.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/bpv_presentation_02.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\bpv_presentation_02.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/bpv_remplacementconcierge_02.webp
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\bpv_remplacementconcierge_02.webp
+Content Type: image/webp
+
+Uri: https://www.bpvimmo.be/images/check.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\check.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/check_dark.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\check_dark.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/facebook.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/graffiti.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\graffiti.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/icon_blog.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\icon_blog.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/icon_electicite.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\icon_electicite.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/icon_encombrants.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\icon_encombrants.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/icon_jardins.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\icon_jardins.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/icon_peinture.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\icon_peinture.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/icon_plomberie.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\icon_plomberie.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/icon_sel.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\icon_sel.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/icon_serrures.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\icon_serrures.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/icon_tapis.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\icon_tapis.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/illu_bureaux.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\illu_bureaux.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/illu_concierge.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\illu_concierge.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/illu_grandnettoyage.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\illu_grandnettoyage.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/illu_immeuble.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\illu_immeuble.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/illu_vitres.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\illu_vitres.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/list.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\list.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/logo.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/mail_white.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\mail_white.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/plus_darkblue.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\plus_darkblue.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/scrolltop.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\scrolltop.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/search.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\search.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/tel_white.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\tel_white.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/images/toponweb.svg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\images\toponweb.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bpvimmo.be/img/blog/AdobeStock_141931690.jpeg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\AdobeStock_141931690.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/AdobeStock_25987812.jpeg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\AdobeStock_25987812.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/AdobeStock_301109427_edited.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\AdobeStock_301109427_edited.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/AdobeStock_305635573_edited.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\AdobeStock_305635573_edited.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/AdobeStock_523089056.jpeg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\AdobeStock_523089056.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/AdobeStock_744499438.jpeg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\AdobeStock_744499438.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/blog-BPV-decembre20241.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\blog-BPV-decembre20241.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/blog-BPV-novembre-1.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\blog-BPV-novembre-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/blog-BPV-octobre-1.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\blog-BPV-octobre-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/blog-BPVImmo-082024.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\blog-BPVImmo-082024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/blog-BPVImmo-092024.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\blog-BPVImmo-092024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/Blog-photo-cahier-des-charges-bis.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\Blog-photo-cahier-des-charges-bis.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/Blog-photo-CGV-bis.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\Blog-photo-CGV-bis.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/Blog-photo-contrat.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\Blog-photo-contrat.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/Blog-photo-RGPD.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\Blog-photo-RGPD.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/main/AdobeStock_141931690.jpeg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\main\AdobeStock_141931690.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/main/AdobeStock_25987812.jpeg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\main\AdobeStock_25987812.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/main/AdobeStock_301109427_edited.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\main\AdobeStock_301109427_edited.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/main/AdobeStock_305635573_edited.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\main\AdobeStock_305635573_edited.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/main/AdobeStock_523089056.jpeg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\main\AdobeStock_523089056.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/main/blog-BPV-decembre20241.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\main\blog-BPV-decembre20241.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/main/blog-BPV-novembre-1.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\main\blog-BPV-novembre-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/main/blog-BPV-octobre-1.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\main\blog-BPV-octobre-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/main/blog-BPVImmo-082024.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\main\blog-BPVImmo-082024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/main/blog-BPVImmo-092024.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\main\blog-BPVImmo-092024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/main/Blog-photo-cahier-des-charges-bis.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\main\Blog-photo-cahier-des-charges-bis.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/main/Blog-photo-CGV-bis.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\main\Blog-photo-CGV-bis.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/main/Blog-photo-contrat.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\main\Blog-photo-contrat.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/main/Blog-photo-RGPD.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\main\Blog-photo-RGPD.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/main/nettoyage-bureau.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\main\nettoyage-bureau.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/nettoyage-bureau.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\nettoyage-bureau.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/wysiwyg/adobe.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\wysiwyg\adobe.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/wysiwyg/blog-BPV-decembre20242.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\wysiwyg\blog-BPV-decembre20242.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/wysiwyg/blog-BPV-decembre20243.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\wysiwyg\blog-BPV-decembre20243.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/wysiwyg/blog-BPV-decembre20244.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\wysiwyg\blog-BPV-decembre20244.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/wysiwyg/blog-BPV-novembre-2.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\wysiwyg\blog-BPV-novembre-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/wysiwyg/blog-BPV-novembre-3.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\wysiwyg\blog-BPV-novembre-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/wysiwyg/blog-BPV-octobre-2.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\wysiwyg\blog-BPV-octobre-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/wysiwyg/blog-BPV-octobre-3.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\wysiwyg\blog-BPV-octobre-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/wysiwyg/blog-BPVImmo-092024.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\wysiwyg\blog-BPVImmo-092024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/wysiwyg/Capture~10.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\wysiwyg\Capture~10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/wysiwyg/Capture~12.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\wysiwyg\Capture~12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/wysiwyg/Capture~13.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\wysiwyg\Capture~13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/wysiwyg/Capture~4.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\wysiwyg\Capture~4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/wysiwyg/Capture~7.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\wysiwyg\Capture~7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/wysiwyg/Capture~8.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\wysiwyg\Capture~8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/wysiwyg/photo_default_blog~3.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\wysiwyg\photo_default_blog~3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/wysiwyg/photo_default_blog~4.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\wysiwyg\photo_default_blog~4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/blog/wysiwyg/photo_default_blog~5.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\blog\wysiwyg\photo_default_blog~5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/ABBAYE-91.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\ABBAYE-91.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/ADUATIQUES-87.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\ADUATIQUES-87.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/AUVENT~1.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\AUVENT~1.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/BERKENDAEL-118.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\BERKENDAEL-118.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/BOIS-1-9.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\BOIS-1-9.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/BONNIERS-209---MUTUELLE-JUIVE-DINHUMATION.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\BONNIERS-209---MUTUELLE-JUIVE-DINHUMATION.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/bpv-realisations-gd-01.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\bpv-realisations-gd-01.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/bpv-realisations-gd-02.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\bpv-realisations-gd-02.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/bpv-realisations-gd-03.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\bpv-realisations-gd-03.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/bpv-realisations-gd-04.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\bpv-realisations-gd-04.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/BROUWERIJ-38-40.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\BROUWERIJ-38-40.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/CHATS-1---VITRES.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\CHATS-1---VITRES.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/CORBAIS-14.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\CORBAIS-14.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/CORTENBERG-89---IMPERIAL-BRANDS.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\CORTENBERG-89---IMPERIAL-BRANDS.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/DEGROUX-47.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\DEGROUX-47.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/DEKENIJ-17-23.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\DEKENIJ-17-23.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/ENCOMBRANTS~1.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\ENCOMBRANTS~1.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/GRAFFITI~1.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\GRAFFITI~1.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/HAUTE-PRESSION~1.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\HAUTE-PRESSION~1.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/HENNEAU-82.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\HENNEAU-82.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/INDUSTRIE-168---BIGH-ANDERLECHT.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\INDUSTRIE-168---BIGH-ANDERLECHT.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/JACINTHES-90-92.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\JACINTHES-90-92.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/JARDINETS~1.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\JARDINETS~1.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/LINDEBOOM-104A-104B.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\LINDEBOOM-104A-104B.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/LONGTIN-103---ENTREPRISE-GOES.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\LONGTIN-103---ENTREPRISE-GOES.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/ABBAYE-91.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\ABBAYE-91.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/ADUATIQUES-87.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\ADUATIQUES-87.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/AUVENT~1.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\AUVENT~1.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/BERKENDAEL-118.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\BERKENDAEL-118.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/BOIS-1-9.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\BOIS-1-9.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/BONNIERS-209---MUTUELLE-JUIVE-DINHUMATION.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\BONNIERS-209---MUTUELLE-JUIVE-DINHUMATION.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/bpv-realisations-gd-01.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\bpv-realisations-gd-01.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/bpv-realisations-gd-02.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\bpv-realisations-gd-02.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/bpv-realisations-gd-03.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\bpv-realisations-gd-03.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/bpv-realisations-gd-04.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\bpv-realisations-gd-04.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/BROUWERIJ-38-40.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\BROUWERIJ-38-40.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/CHATS-1---VITRES.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\CHATS-1---VITRES.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/CORBAIS-14.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\CORBAIS-14.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/CORTENBERG-89---IMPERIAL-BRANDS.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\CORTENBERG-89---IMPERIAL-BRANDS.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/DEGROUX-47.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\DEGROUX-47.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/DEKENIJ-17-23.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\DEKENIJ-17-23.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/ENCOMBRANTS~1.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\ENCOMBRANTS~1.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/GRAFFITI~1.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\GRAFFITI~1.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/HAUTE-PRESSION~1.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\HAUTE-PRESSION~1.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/HENNEAU-82.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\HENNEAU-82.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/INDUSTRIE-168---BIGH-ANDERLECHT.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\INDUSTRIE-168---BIGH-ANDERLECHT.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/JACINTHES-90-92.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\JACINTHES-90-92.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/JARDINETS~1.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\JARDINETS~1.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/LINDEBOOM-104A-104B.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\LINDEBOOM-104A-104B.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/LONGTIN-103---ENTREPRISE-GOES.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\LONGTIN-103---ENTREPRISE-GOES.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/MOUETTES-19.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\MOUETTES-19.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/NAALD-39---AJOUTS.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\NAALD-39---AJOUTS.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/NOVEMBRE-25.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\NOVEMBRE-25.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/OSMOSE~1.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\OSMOSE~1.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/TAILLE~1.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\TAILLE~1.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/TAPIS~1.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\TAPIS~1.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/TERVUREN-250.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\TERVUREN-250.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/TOITURES~1.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\TOITURES~1.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/WAHIS-32.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\WAHIS-32.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/WANNECOUTER-38.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\WANNECOUTER-38.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/main/WEZEMBEEK-116-120---PARKING.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\main\WEZEMBEEK-116-120---PARKING.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/MOUETTES-19.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\MOUETTES-19.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/NAALD-39---AJOUTS.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\NAALD-39---AJOUTS.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/NOVEMBRE-25.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\NOVEMBRE-25.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/OSMOSE~1.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\OSMOSE~1.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/TAILLE~1.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\TAILLE~1.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/TAPIS~1.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\TAPIS~1.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/TERVUREN-250.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\TERVUREN-250.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/TOITURES~1.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\TOITURES~1.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/WAHIS-32.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\WAHIS-32.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/WANNECOUTER-38.JPG
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\WANNECOUTER-38.JPG
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/img/realisations/WEZEMBEEK-116-120---PARKING.jpg
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\img\realisations\WEZEMBEEK-116-120---PARKING.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bpvimmo.be/js/custom.js
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\js\custom.js
+Content Type: application/javascript
+
+Uri: https://www.bpvimmo.be/js/fancybox.min.js
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\js\fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://www.bpvimmo.be/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.bpvimmo.be/js/slick.min.js
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://www.bpvimmo.be/lavage-de-vitres.php
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\lavage-de-vitres.php.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/multiservices.php
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\multiservices.php.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/nettoyage-communs-immeubles.php
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\nettoyage-communs-immeubles.php.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/nettoyage-de-bureaux.php
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\nettoyage-de-bureaux.php.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/plan.php
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\plan.php.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/realisations.php
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\realisations.php.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/remplacement-de-concierge.php
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\remplacement-de-concierge.php.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/services-de-nettoyage.php
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\services-de-nettoyage.php.html
+Content Type: text/html
+
+Uri: https://www.bpvimmo.be/societe-de-nettoyage.php
+File Name: C:\Downloaded Web Sites\www.bpvimmo.be\societe-de-nettoyage.php.html
+Content Type: text/html
+
